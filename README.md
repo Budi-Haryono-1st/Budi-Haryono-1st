@@ -1,5 +1,5 @@
-# 💫 About Me:
 <div align="center">
+# 💫 About Me:
 
 # Hi 👋, I'm Budi Haryono
 
@@ -91,7 +91,7 @@
 ---
 
 # 📊 GitHub Stats:
-
+<div align="center">
 <p align="center">
 
 <img 
@@ -117,7 +117,7 @@
 />
 
 </p>
-
+</p>div
 ---
 
 <p align="center">
