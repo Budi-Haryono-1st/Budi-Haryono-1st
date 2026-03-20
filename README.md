@@ -9,7 +9,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 What I Do
 
 - 🔭 I'm currently working on exciting new projects  
 - 🌱 Always learning and exploring new technologies  
