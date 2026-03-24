@@ -106,11 +106,7 @@
 <img 
   height="200"
   width="49%"
-  src="https://nirzak-streak-stats.vercel.app/?user=mauuas1st&theme=dark&hide_border=false&ring=orange&fire=orange" 
-/>
-
-</p>
-
+  src="https://nirzak-streak-stats.vercel.app/?user=mauuas1st&theme=dark&hide_border=false&ring=orange&fire=orange"/>
 
 
 <p align="center">
