@@ -97,9 +97,13 @@
 <div align="center">
 <p align="center">
 
+<img 
+  height="200"
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api?username=Budi-Haryono-1st&show_icons=true&theme=dark&hide_border=false&title_color=orange&icon_color=orange&text_color=ffffff&border_color=orange" 
+/>
 
-
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Budi-Haryono-1st&theme=dark&fire=orange&ring=orange&sideLabels=orange" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Budi-Haryono-1st&theme=dark&fire=orange&ring=orange&sideLabels=orange" />
 
 
 <p align="center">
