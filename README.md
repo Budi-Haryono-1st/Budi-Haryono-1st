@@ -103,10 +103,7 @@
   src="https://github-readme-stats.vercel.app/api?username=mauuas1st&show_icons=true&theme=dark&hide_border=false&title_color=orange&icon_color=orange&text_color=ffffff&border_color=orange" 
 />
 
-<img 
-  height="200"
-  width="49%"
-  src="https://nirzak-streak-stats.vercel.app/?user=mauuas1st&theme=dark&hide_border=false&ring=orange&fire=orange"/>
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=mauuas1st&theme=dark&fire=orange&ring=orange&sideLabels=orange" />
 
 
 <p align="center">
@@ -120,20 +117,6 @@
 
 </p>
 
-</div>
-
-
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mauuas1st&show_icons=true&theme=dark&title_color=orange&icon_color=orange&text_color=ffffff&border_color=orange&hide_border=false" />
-
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=mauuas1st&theme=dark&fire=orange&ring=orange&sideLabels=orange" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauuas1st&layout=compact&theme=dark&title_color=orange&text_color=ffffff&border_color=orange&hide_border=false" />
 </div>
 
 ---
