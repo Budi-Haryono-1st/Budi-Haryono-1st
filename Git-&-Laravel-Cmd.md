@@ -230,7 +230,7 @@ ssh-keygen -t ed25519 -C "email_2@kamu.com"
 > Your identification has been saved in C:\Users\Admin\.ssh\id_ed25519_mauuas
 > Your public key has been saved in C:\Users\Admin\.ssh\id_ed25519_mauuas.pub
 > The key fingerprint is:
-> SHA256:uwBPH/er6YYYF6I/I9xQ97/JWAqpoljkmPSWYki4TtZnw mauuas1st@gmail.com
+> SHA256:uwBPH/er6YYYF6I/I9xQ97/JWAqpoljkmPSWYki4TtZnw email_2@kamu.com
 > ```
 
 **3. Verifikasi file SSH**
