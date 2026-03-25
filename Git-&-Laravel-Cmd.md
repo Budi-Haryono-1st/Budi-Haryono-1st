@@ -121,9 +121,9 @@ git push -u origin main           # push pertama kali
 
 ---
 
-### 🖥️ 2 Akun GitHub di 1 Komputer
+### 🖥️ 2 Menambahkan 2 Akun GitHub di Ubuntu
 
-**Windows (Git Bash) & Ubuntu**
+**Ubuntu**
 
 **1. Buat 2 SSH Key**
 
@@ -205,6 +205,8 @@ ssh -T git@github-akun2   # Hi username2!
 
 ### 🖥️ Menambahkan 2 Akun GitHub di Windows
 
+***Windows (Powwershell "administrator")***
+
 **1. Aktifkan ssh-agent**
 
 ```powershell
@@ -228,7 +230,7 @@ ssh-keygen -t ed25519 -C "mauuas1st@gmail.com"
 > Your identification has been saved in C:\Users\Admin\.ssh\id_ed25519_mauuas
 > Your public key has been saved in C:\Users\Admin\.ssh\id_ed25519_mauuas.pub
 > The key fingerprint is:
-> SHA256:uwBPH/er6YYYF6I/I9xQ97/JWAqfsvmPSWYki4TtZnw mauuas1st@gmail.com
+> SHA256:uwBPH/er6YYYF6I/I9xQ97/JWAqpoljkmPSWYki4TtZnw mauuas1st@gmail.com
 > ```
 
 **3. Verifikasi file SSH**
