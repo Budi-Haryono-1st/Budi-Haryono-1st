@@ -285,7 +285,24 @@ Host github-mauuas
   IdentityFile C:\Users\Admin\.ssh\id_ed25519_mauuas
 ```
 
-**7. Test Koneksi**
+**7. Set Remote per Project**
+
+```bash
+# Project akun 1
+git remote set-url origin git@github-akun1:username1/nama-repo.git
+
+# Project akun 2
+git remote set-url origin git@github-akun2:username2/nama-repo.git
+```
+
+**8. Set Identity per Project (lokal)**
+
+```bash
+git config user.name "Nama Akun 1"
+git config user.email "email1@kamu.com"
+```
+
+**9. Test Koneksi**
 
 ```powershell
 ssh -T git@github-budi
