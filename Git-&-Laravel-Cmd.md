@@ -218,10 +218,10 @@ Start-Service ssh-agent
 **2. Buat 2 SSH Key**
 
 ```powershell
-ssh-keygen -t ed25519 -C "Budi.h1st@gmail.com"
+ssh-keygen -t ed25519 -C "email_1@kamu.com"
 # Simpan ke: C:\Users\Admin\.ssh\id_ed25519_budi
 
-ssh-keygen -t ed25519 -C "mauuas1st@gmail.com"
+ssh-keygen -t ed25519 -C "email_2@kamu.com"
 # Simpan ke: C:\Users\Admin\.ssh\id_ed25519_mauuas
 ```
 
@@ -245,10 +245,10 @@ dir C:\Users\Admin\.ssh
 
 ```powershell
 ssh-add C:\Users\Admin\.ssh\id_ed25519_budi
-# Identity added: C:\Users\Admin\.ssh\id_ed25519_budi (Budi.h1st@gmail.com)
+# Identity added: C:\Users\Admin\.ssh\id_ed25519_budi (email_1@kamu.com)
 
 ssh-add C:\Users\Admin\.ssh\id_ed25519_mauuas
-# Identity added: C:\Users\Admin\.ssh\id_ed25519_mauuas (mauuas1st@gmail.com)
+# Identity added: C:\Users\Admin\.ssh\id_ed25519_mauuas (email_2@kamu.com)
 ```
 
 **5. Copy Public Key ke GitHub**
